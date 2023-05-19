@@ -19,7 +19,7 @@
   <a href="https://github.com/galactussss">
     <img src="https://gpvc.arturio.dev/galactus">
   </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
+    <p align="center"> <a href="discord.gg/toolfr" target="blank">
     <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="galactus"/></a>
   </a>
 </p>
